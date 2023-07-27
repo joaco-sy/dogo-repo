@@ -9,5 +9,6 @@ This repository contains all the documentation and the code nessesary 4 the webp
 ---
 
 ## Docs:
-- [a](./)
-- [b](./)
+- [Commit guide lines ](./doc/commit_guide_lines.md)
+
+- [Config Github repo](./doc/config_repo.md)
