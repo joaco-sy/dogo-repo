@@ -30,7 +30,7 @@ The description contains a succinct description of the change:
 ### examples:
 
 
-### links:
+### links a tener en cuenta:
 
 https://www.conventionalcommits.org/en/v1.0.0/
 

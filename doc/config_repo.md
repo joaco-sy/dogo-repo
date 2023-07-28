@@ -20,3 +20,11 @@ Branch name pattern: main
     - require approvasl
     -  Dismiss stale pull request approvals when new commits are pushed
     -  Require review from Code Owners 
+
+## manage user access to repos
+
+roles
+
+### links a tener en cuenta:
+
+https://docs.github.com/code-security
